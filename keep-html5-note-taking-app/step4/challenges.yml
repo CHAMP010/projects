@@ -1,0 +1,7 @@
+name: "Storing into localStorage"
+stepId: step5
+stepBreakDown:
+  - text: "Initialize and set up localStorage."
+  - text: "Create the functionality updating note into localStorage"
+  - text: "Create the functionality for getting notes from the localStorage"
+  - text: "Update Local Storage when we are editing and deleting notes."

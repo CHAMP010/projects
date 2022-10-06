@@ -1,0 +1,9 @@
+name: "Building the HTML Structure"
+stepId: step1
+stepBreakDown:
+  - text: "Create the `<div>` tag with class `heading` inside the `div#container` element."
+  - text: "Add nested tags `h1 > i > span` to `<div>` element of class `heading`. (Hint: Checkout instruction number 2)"
+  - text: "Give the class `fas fa-sticky-note` to `<i>` and `title` to `<span>`."
+  - text: "Add `Note Keep` text to the span tag."
+  - text: "Create another `<div>` tag with the class `btn-div` inside `<div class="container">` element."
+  - text: "Create `Add Note` button. (Hint: Checkout instruction number 6)"

@@ -1,0 +1,6 @@
+name: "Adding functionality to the app"
+stepId: step3
+stepBreakDown:
+  - text: "Create the functionality for adding new note."
+  - text: "Create the functionality for editing note."
+  - text: "Create the functionality for deleting note."

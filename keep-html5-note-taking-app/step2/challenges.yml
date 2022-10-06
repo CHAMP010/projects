@@ -1,0 +1,4 @@
+name: "Styling the App"
+stepId: step1
+stepBreakDown:
+  - text: "Try styling the app. (Hint: CSS code is provided in instruction number 1)"
